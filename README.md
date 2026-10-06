@@ -69,7 +69,7 @@ python run_local.py --workers 2
 python run_local.py --redo 4,10
 
 # Submit the answers to the course scoring API
-python run_local.py --submit --username YOUR_HF_USERNAME --agent-code https://github.com/<your-user>/<this-repo>
+python run_local.py --submit --username JhonnyBasso --agent-code https://github.com/jhonnybasso/gaia-agent-langgraph
 ```
 
 ## Configuration
