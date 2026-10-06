@@ -1,0 +1,19 @@
+# Secrets: never commit these
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local agent outputs (contain GAIA questions and answers)
+answers_cache.json
+results.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

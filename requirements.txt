@@ -1,0 +1,13 @@
+gradio[oauth]
+requests
+pandas
+openpyxl
+pypdf
+beautifulsoup4
+python-dotenv
+langgraph
+langchain-core
+langchain-google-genai
+ddgs
+youtube-transcript-api
+truststore
